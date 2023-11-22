@@ -92,7 +92,7 @@
                 <div class="swiper-slide slide">
                     <img src="IMAGE/menu.jpg" alt="">
                     <div class="content">
-                        <h3>Menu </h3>
+                        <h3>Menuu </h3>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur, facere!</p>
                         <a href="about.php" class="btn">About more</a>
                     </div>
